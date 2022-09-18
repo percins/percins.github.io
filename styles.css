@@ -59,8 +59,11 @@ hr{
 	font-size: 16px;
 }
 .publications{
-	padding-top: 30px;
+	padding-top: 10px;
 	font-size: 16px;
+}
+.paperinfo:hover{
+	color: #000;
 }
 .paper{
 	padding: 0px 125px;
@@ -69,6 +72,7 @@ hr{
 .chron{
 	font-size: 18px;
 }
+
 .uni{
 	padding: 0px 90px;
 	font-size: 14px;
@@ -102,3 +106,16 @@ iframe{
 	display: none;
 }
 
+.popuptext{
+	display: none;
+}
+.popup{
+    background-color: #ffffff;
+    padding: 20px 10px 20px 10px;
+    position: absolute;
+    border-radius: 8px;
+    display: none;
+	font-size: 13px;
+	margin-right: 130px;
+    margin-left: 0px;
+}

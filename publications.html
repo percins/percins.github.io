@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>sezen_percin/publications</title>
+  <link rel="stylesheet" href="styles.css">
+  <script>
+  function revealinfo(id) {
+    //https://stackoverflow.com/questions/14113850/hide-show-iframes-with-a-button
+    document.getElementById(id).style.display = "block"; //hides the frame
+  }
+  </script>
+</head>
+<body>
+  <div class="uppertab">
+      <p><a href="index.html">About Me</a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="publications.html">Publications</a></p>
+      <hr>
+  </div>
+
+<div class=sidenav>
+    <img src="imgs_and_icons/profilephoto.jpg" alt="photo of me" width="250" height="250">
+    <div style="display: inline-block; text-align: left;">
+      <h1>sezen perçin</h1>
+      <a href="mailto:sezen.percin@boun.edu.tr"><img src="imgs_and_icons/icons8-mail-24.png" alt="Mail" width="15" height="15"> Mail<br></a>
+      <a href="https://github.com/percins"><img src="imgs_and_icons/GitHub-Mark-32px.png" alt="GitHub" width="15" height="15"> GitHub<br></a>
+      <a href="https://scholar.google.com/citations?user=M8KGGM0AAAAJ&hl=en&oi=ao"><img src="imgs_and_icons/google-scholar.svg" alt="Google Scholar" width="15" height="15"> Google Scholar<br></a>
+      <a href="https://www.researchgate.net/profile/Sezen-Percin"><img src="imgs_and_icons/researchgate-square.svg" alt="ResearchGate" width="15" height="15"> ResearchGate<br></a>
+	  <a href="https://orcid.org/0000-0002-8373-8443"><img src="imgs_and_icons/orcid.svg" alt="Orcid" width="15" height="15"> Orcid<br></a>
+      <p>she/her</p>
+	</div>
+</div>
+<div class="main">
+  <div class="pagecontent " >
+	   <div class="publications" id="pub">
+	     <h2>Publications</h2>
+		 <p class="paperinfo" onclick="revealinfo('info1')"><span class=chron><b>20/05/2022</b></span>&nbsp&nbspCombining WordNet and Word Embeddings in Data Augmentation for Legal Texts<br><span class="paper">3rd International Workshop on Deep Learning meets Ontologies and Natural Language Processing</span><br><span class="paper">@ ESWC 2022, Hersonissos, Greece</span><br></p>
+		 <p class="popup" id="info1">Creating labeled textual corpora for complex tasks, like legal analysis, is a challenging and expensive process that often requires the collaboration of domain experts. To address this problem, we propose a data augmentation method based on the combination of GloVe word embeddings and the WordNet ontology. We present an example of application in the legal domain and provide a preliminary qualitative evaluation with human experts.</p>
+	   </div>
+	</div>
+</div>
+</body>
+</html>
