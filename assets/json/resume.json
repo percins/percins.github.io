@@ -26,43 +26,45 @@
   },
   "work": [
     {
-      "name": "Intel Deutschland GmbH (Germany)",
+      "name": "Intel Deutschland GmbH",
+      "location": "Munich, Germany",
       "position": "Master Thesis Student",
-      "url": "https://example.com",
-      "startDate": "09/2024",
-      "endDate": "03/2025",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "startDate": "09-2024",
+      "endDate": "03-2025",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     },
     {
-      "name": "Intel Deutschland GmbH (Germany)",
+      "name": "Intel Deutschland GmbH",
+      "location": "Munich, Germany",
       "position": "Research Intern",
-      "startDate": "05/2024",
-      "endDate": "08/2024"
+      "startDate": "05-2024",
+      "endDate": "08-2024"
     },
     {
-      "name": "Technical University of Munich (Germany)",
+      "name": "Technical University of Munich",
+      "location": "Munich, Germany",
       "position": "Student Research Assistant",
       "url": "https://www.cs.cit.tum.de/lt/tum-legal-tech-working-group/",
-      "startDate": "05/2023",
-      "endDate": "03/2024",
+      "startDate": "05-2023",
+      "endDate": "03-2024",
       "summary": "Student research assistant in the Professorship for Legal Tech working with generative AI models for application development, hyperparameter tuning and support research projects."
     },
     {
-      "name": "University of Bologna (Italy)",
+      "name": "University of Bologna",
+      "location": "Bologna, Italy",
       "position": "Research Intern at the Language Technologies Lab",
       "url": "https://site.unibo.it/nlp/en",
-      "startDate": "07/2021",
-      "endDate":   "09/2021",
+      "startDate": "07-2021",
+      "endDate":   "09-2021",
       "summary": "Data augmentation, extractive text summarization, and sentence classification in legal cases in the scope of E.U. project ADELE."
     },
     {
-      "name": "Turkcell İletişim Hizmetleri A.Ş. (Türkiye)",
+      "name": "Turkcell İletişim Hizmetleri A.Ş.",
+      "location": "Istanbul, Türkiye",
       "position": "Part-Time Working Student & Cyber Security Intern",
-      "startDate": "07/2020",
-      "endDate": "07/2021",
-      "summary": "Worked as an intern (07/2020-08/2020) and later as a part-time student (10/2020-07/2021) at the Cyber Defence Center developing Python, MySQL based applications.",
-      "highlights": ["Relativity"]
+      "startDate": "07-2020",
+      "endDate": "07-2021",
+      "summary": "Worked as an intern (07-2020-08-2020) and later as a part-time student (10-2020-07-2021) at the Cyber Defence Center developing Python, MySQL based applications."
     }
   ],
   "volunteer": [
@@ -71,8 +73,8 @@
       "location": "Vienna, Austria",
       "position": "Student Volunteer",
       "url": "https://2025.aclweb.org/",
-      "startDate": "26/07/2025",
-      "endDate": "01/08/2025",
+      "startDate": "26-07-2025",
+      "endDate": "01-08-2025",
       "summary": "Student volunteering positions to support the organizational activities of the ACL 2025 conference."
     }
   ],
@@ -83,7 +85,7 @@
       "url": "https://www.tum.de/",
       "area": "M.Sc. Robotics, Cognition, Intelligence",
       "studyType": "Master's Program",
-      "startDate": "10/2022",
+      "startDate": "10-2022",
       "endDate": "Present",
       "courses": ["TOADD"]
     },
@@ -93,8 +95,8 @@
       "url": "https://bogazici.edu.tr/en",
       "area": "B.Sc. Electrical and Electronics Engineering & Mathematics",
       "studyType": "Bachelor's Program",
-      "startDate": "10/2022",
-      "endDate": "06/2022",
+      "startDate": "10-2022",
+      "endDate": "06-2022",
       "courses": ["TOADD"]
     }
   ],
@@ -164,14 +166,14 @@
     {
       "name": "Motion Planning with Diffusion",
       "summary": "Using diffusion models to iteratively denoise trajectories in a 2D world setting and conditioning the generation on environment knowledge to ensure occlusion-free sample production. Different diffusion approaches of DDPM and DDIM are explored to fasten the inference while metrics are also investigated to ensure the diversity and the quality of the generated samples.",
-      "startDate": "10/2023",
-      "endDate": "02/2024"
+      "startDate": "10-2023",
+      "endDate": "02-2024"
     },
     {
       "name": "Argument Mining in Political Texts",
       "summary": "Development and comparison of a syntactic embedding-based graph neural network model and a Sentence-BERT based model for the argument mining task on the ElectDeb60to16 dataset",
-      "startDate": "04/2023",
-      "endDate": "09/2023"
+      "startDate": "04-2023",
+      "endDate": "09-2023"
     }
   ]
 }
