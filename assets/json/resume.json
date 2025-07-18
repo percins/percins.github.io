@@ -30,8 +30,7 @@
       "location": "Munich, Germany",
       "position": "Master Thesis Student",
       "startDate": "2024-09",
-      "endDate": "2025-03",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
+      "endDate": "2025-03"
     },
     {
       "name": "Intel Deutschland GmbH",
@@ -121,7 +120,7 @@
       "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Python (PyTorch, TensorFlow, Keras),",
+        "Python (PyTorch, TensorFlow, Keras)",
         "C / C++",
         "MATLAB",
         "HTML/CSS",
@@ -142,7 +141,7 @@
     },
     {
       "language": "German",
-      "fluency": "Fluent (Zweite Stufe Sprachdiplom (Deutsches Sprachdiplom der Kultusministerkonferenz)",
+      "fluency": "Fluent (Zweite Stufe Sprachdiplom der Kultusministerkonferenz)",
       "icon": ""
     }
   ],

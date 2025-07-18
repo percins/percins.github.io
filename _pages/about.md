@@ -27,4 +27,4 @@ social: true # includes social icons at the bottom of the page
 
 I am a master's student of MSc. Robotics, Cognition, Intelligence program at TUM.  I am interested in fundemental machine learning research of language processing and language models that results in efficient, practical applications. 
 
-I was previously a research intern at Intel Labs, a hiwi student at the LegalTech group at TUM and a summer research intern at University of Bologna. 
+I was previously a research intern at Intel Labs, a hiwi student at the LegalTech group at TUM and a summer research intern at University of Bologna wokring on various NLP problems. 
