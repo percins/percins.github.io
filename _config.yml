@@ -190,6 +190,12 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _projects/
+  - _news/
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/blog.md
+
 keep_files:
   - CNAME
   - .nojekyll
@@ -262,8 +268,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Perçin]
+  first_name: [Sezen]
 
   style: apa
   locale: en

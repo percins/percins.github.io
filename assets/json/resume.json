@@ -13,185 +13,165 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Sezen Perçin",
+        "url": "https://de.linkedin.com/in/sezen-per%C3%A7in-1222271a5"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Sezen Perçin",
+        "url": "https://scholar.google.com/citations?user=M8KGGM0AAAAJ&hl=en"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Intel Deutschland GmbH (Germany)",
+      "position": "Master Thesis Student",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "startDate": "09/2024",
+      "endDate": "03/2025",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
+    },
+    {
+      "name": "Intel Deutschland GmbH (Germany)",
+      "position": "Research Intern",
+      "startDate": "05/2024",
+      "endDate": "08/2024"
+    },
+    {
+      "name": "Technical University of Munich (Germany)",
+      "position": "Student Research Assistant",
+      "url": "https://www.cs.cit.tum.de/lt/tum-legal-tech-working-group/",
+      "startDate": "05/2023",
+      "endDate": "03/2024",
+      "summary": "Student research assistant in the Professorship for Legal Tech working with generative AI models for application development, hyperparameter tuning and support research projects."
+    },
+    {
+      "name": "University of Bologna (Italy)",
+      "position": "Research Intern at the Language Technologies Lab",
+      "url": "https://site.unibo.it/nlp/en",
+      "startDate": "07/2021",
+      "endDate":   "09/2021",
+      "summary": "Data augmentation, extractive text summarization, and sentence classification in legal cases in the scope of E.U. project ADELE."
+    },
+    {
+      "name": "Turkcell İletişim Hizmetleri A.Ş. (Türkiye)",
+      "position": "Part-Time Working Student & Cyber Security Intern",
+      "startDate": "07/2020",
+      "endDate": "07/2021",
+      "summary": "Worked as an intern (07/2020-08/2020) and later as a part-time student (10/2020-07/2021) at the Cyber Defence Center developing Python, MySQL based applications.",
       "highlights": ["Relativity"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "ACL 2025",
+      "location": "Vienna, Austria",
+      "position": "Student Volunteer",
+      "url": "https://2025.aclweb.org/",
+      "startDate": "26/07/2025",
+      "endDate": "01/08/2025",
+      "summary": "Student volunteering positions to support the organizational activities of the ACL 2025 conference."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.tum.de/",
+      "area": "M.Sc. Robotics, Cognition, Intelligence",
+      "studyType": "Master's Program",
+      "startDate": "10/2022",
+      "endDate": "Present",
+      "courses": ["TOADD"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Boğaziçi University",
+      "location": "Istanbul, Türkiye",
+      "url": "https://bogazici.edu.tr/en",
+      "area": "B.Sc. Electrical and Electronics Engineering & Mathematics",
+      "studyType": "Bachelor's Program",
+      "startDate": "10/2022",
+      "endDate": "06/2022",
+      "courses": ["TOADD"]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Investigating the Robustness of Retrieval-Augmented Generation at the Query Level",
+      "publisher": "GEM Workshop @ ACL 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2507.06956",
+      "summary": "Large language models (LLMs) are very costly and inefficient to update with new information. To address this limitation, retrieval-augmented generation (RAG) has been proposed as a solution that dynamically incorporates external knowledge during inference, improving factual consistency and reducing hallucinations. Despite its promise, RAG systems face practical challenges-most notably, a strong dependence on the quality of the input query for accurate retrieval. In this paper, we investigate the sensitivity of different components in the RAG pipeline to various types of query perturbations. Our analysis reveals that the performance of commonly used retrievers can degrade significantly even under minor query variations. We study each module in isolation as well as their combined effect in an end-to-end question answering setting, using both general-domain and domain-specific datasets. Additionally, we propose an evaluation framework to systematically assess the query-level robustness of RAG pipelines and offer actionable recommendations for practitioners based on the results of more than 1092 experiments we performed."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Combining WordNet and Word Embeddings in Data Augmentation for Legal Texts",
+      "publisher": "Proceedings of the Natural Legal Language Processing Workshop 2022 @ EMNLP 2022",
+      "releaseDate": "2022",
+      "url": "https://aclanthology.org/2022.nllp-1.4/",
+      "summary": "Creating balanced labeled textual corpora for complex tasks, like legal analysis, is a challenging and expensive process that often requires the collaboration of domain experts. To address this problem, we propose a data augmentation method based on the combination of GloVe word embeddings and the WordNet ontology. We present an example of application in the legal domain, specifically on decisions of the Court of Justice of the European Union.Our evaluation with human experts confirms that our method is more robust than the alternatives."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
+        "Python (PyTorch, TensorFlow, Keras),",
+        "C / C++",
+        "MATLAB",
         "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "HTML/CSS",
+        "MySQL"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Turkish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (IELTS score of 8.0 / 9.0)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Fluent (Zweite Stufe Sprachdiplom (Deutsches Sprachdiplom der Kultusministerkonferenz)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Artificial Intelligence",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "NLP",
+        "Machine Learning",
+        "Deep Learning",
+        "Representation Learning",
+	"Multimodal Learning",
+	"Robustness",
+        "Uncertainty Quantification"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Motion Planning with Diffusion",
+      "summary": "Using diffusion models to iteratively denoise trajectories in a 2D world setting and conditioning the generation on environment knowledge to ensure occlusion-free sample production. Different diffusion approaches of DDPM and DDIM are explored to fasten the inference while metrics are also investigated to ensure the diversity and the quality of the generated samples.",
+      "startDate": "10/2023",
+      "endDate": "02/2024"
+    },
+    {
+      "name": "Argument Mining in Political Texts",
+      "summary": "Development and comparison of a syntactic embedding-based graph neural network model and a Sentence-BERT based model for the argument mining task on the ElectDeb60to16 dataset",
+      "startDate": "04/2023",
+      "endDate": "09/2023"
     }
   ]
 }
