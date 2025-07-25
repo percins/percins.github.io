@@ -86,7 +86,15 @@
       "studyType": "Master's Program",
       "startDate": "2022-10",
       "endDate": "Present",
-      "courses": ["TOADD"]
+      "courses": ["Machine Learning",
+      "ML for Graphs and Sequential Data",
+      "Introduction to Deep Learning",
+      "Natural Language Processing",
+      "Advanced NLP",
+      "ML for NLP Applications",
+      "Advanced Deep Learning for Robotics",
+      "Fundamentals of AI",
+      "AI in Medicine"]      
     },
     {
       "institution": "Boğaziçi University",
@@ -95,8 +103,7 @@
       "area": "B.Sc. Electrical and Electronics Engineering & Mathematics",
       "studyType": "Bachelor's Program",
       "startDate": "2018-08",
-      "endDate": "2022-06",
-      "courses": ["TOADD"]
+      "endDate": "2022-06"
     }
   ],
   "publications": [

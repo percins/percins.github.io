@@ -26,6 +26,6 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a master's student of MSc. Robotics, Cognition, Intelligence program at TUM.  I am interested in fundemental machine learning research of language processing and language models that results in efficient, practical applications. 
+I am a master's student of MSc. Robotics, Cognition, Intelligence program at [Technical University of Munich (TUM)](https://www.tum.de/).  I am interested in fundemental machine learning research of language processing and language models. I am motivated to be involved in research topics dealing with the interpretability, trustworthiness, robustness and evaluation of language models and their applications in industry and domain-specific settings. I am also eager to investigate the uncertainty quantification, model merging and distillation aspects of these models.
 
-I was previously a research intern at Intel Labs, a hiwi student at the LegalTech group at TUM and a summer research intern at University of Bologna wokring on various NLP problems. 
+I was previously a research intern at [Intel Labs](https://www.intel.com/content/www/us/en/research/about-labs.html), a hiwi student at the [Legal Tech group](https://www.cs.cit.tum.de/lt/tum-legal-tech-working-group/) at [TUM](https://www.tum.de/) and a summer research intern at the [Language Technologies Lab](https://site.unibo.it/nlp/en) of [University of Bologna](https://www.unibo.it/en) working on various NLP tasks.
